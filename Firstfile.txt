@@ -1,4 +1,0 @@
-delete from [tablename] where id=[n];
-update radcheck set value = [value] where id=[n];
-insert into radreply VALUES (1,'ravi','Session-Timeout',':=','60');
-select * from radacct order by acctstarttime desc;
