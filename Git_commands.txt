@@ -5,3 +5,7 @@ git status -------------------tells which files are added to index and ready to 
 git add -A(all files) ------------------lets you add files to your index
 git commit -m -a/-A(all files) "adding "files"  ------------it refers to recording a snapshot of repository at a given time, Commited snapshots never change unless done explicitly--------------
 git log -----to see the logs-------------
+git branch firstbranch ------create firstbranch----------
+git checkout firstbranch------
+
+git push --set-upstream origin master
