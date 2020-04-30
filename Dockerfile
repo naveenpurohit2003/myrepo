@@ -1,2 +1,2 @@
 FROM hshar/webapp
-ADD ./Aws /var/www/html
+ADD . /var/www/html
